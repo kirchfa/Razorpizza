@@ -1,6 +1,6 @@
 ﻿namespace Razorpizza.Models
 {
-    public class PizzsasModel
+    public class PizzasModel
     {
         public string ImageTitle { get; set; }
         public string PizzaName { get; set; }
